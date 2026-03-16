@@ -151,7 +151,7 @@ Areas that could use community input:
 
 ## License
 
-MIT — see [LICENSE.txt](LICENSE.txt)
+MIT — see [LICENSE](LICENSE)
 
 ---
 
